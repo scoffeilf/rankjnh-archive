@@ -1,2 +1,14 @@
 # rankjnh-archive
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
